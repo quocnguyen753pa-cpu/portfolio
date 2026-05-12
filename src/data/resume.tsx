@@ -13,11 +13,11 @@ import { Java } from "@/components/ui/svgs/java";
 import { Csharp } from "@/components/ui/svgs/csharp";
 
 export const DATA = {
-  name: "Dillion Verma",
+  name: "Quốc Nguyễn",
   initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  url: "https://portfolio.thegioidohop.io.vn",
+  location: "Viet Nam",
+  locationLink: "https://maps.app.goo.gl/gESgNhHWQ7MNt4Uy8",
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
@@ -41,33 +41,33 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "quocnguyen09092001@gmail.com",
+    tel: "+84937296753",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "#",
         icon: Icons.github,
         navbar: true,
       },
 
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "#",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "#",
         icon: Icons.x,
 
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "#",
         icon: Icons.youtube,
         navbar: true,
       },
@@ -276,7 +276,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "#",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -430,7 +430,7 @@ export const DATA = {
         {
           title: "Client Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/RTSPClient",
+          href: "#",
         },
       ],
     },
@@ -517,7 +517,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/genecis",
+          href: "#",
         },
       ],
     },
@@ -548,7 +548,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/pocketdoc-react-native",
+          href: "#",
         },
       ],
     },
@@ -583,7 +583,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/pocketdoc-react-native",
+          href: "#",
         },
       ],
     },
@@ -599,7 +599,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/earthwatch",
+          href: "#",
         },
       ],
     },
@@ -616,7 +616,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/threejs-planes",
+          href: "#",
         },
       ],
     },
@@ -639,7 +639,7 @@ export const DATA = {
         {
           title: "Source (Server)",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/mattBlackDesign/recipic-rails",
+          href: "#",
         },
       ],
     },
@@ -656,12 +656,12 @@ export const DATA = {
         {
           title: "Source (Mobile)",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/human-huntr-react-native",
+          href: "#",
         },
         {
           title: "Source (API)",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/mattBlackDesign/human-huntr-rails",
+          href: "#",
         },
       ],
     },
@@ -677,7 +677,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/justinmichaud/TerribleHacks2016-Windows11",
+          href: "#",
         },
       ],
     },
@@ -693,7 +693,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/UWPortalSDK/crowmark",
+          href: "#",
         },
       ],
     },
