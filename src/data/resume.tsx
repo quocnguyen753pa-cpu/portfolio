@@ -19,7 +19,7 @@ export const DATA = {
   location: "Viet Nam",
   locationLink: "https://maps.app.goo.gl/gESgNhHWQ7MNt4Uy8",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "A Product-minded Fullstack Developer who specializes in high-level system architecture. I thrive in the entire software development process, possessing the technical depth and flexibility to handle any position in the pipeline. I don’t just write code; I build complete, resilient products.",
   summary:
     "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
   avatarUrl: "/me.png",
@@ -44,39 +44,17 @@ export const DATA = {
     email: "quocnguyen09092001@gmail.com",
     tel: "+84937296753",
     social: {
-      GitHub: {
-        name: "GitHub",
-        url: "#",
-        icon: Icons.github,
-        navbar: true,
-      },
-
-      LinkedIn: {
-        name: "LinkedIn",
-        url: "#",
-        icon: Icons.linkedin,
-
-        navbar: true,
-      },
-      X: {
-        name: "X",
-        url: "#",
-        icon: Icons.x,
-
-        navbar: true,
-      },
-      Youtube: {
-        name: "Youtube",
-        url: "#",
-        icon: Icons.youtube,
-        navbar: true,
-      },
-      email: {
+      Email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:quocnguyen09092001@gmail.com",
         icon: Icons.email,
-
-        navbar: false,
+        navbar: true,
+      },
+      Telegram: {
+        name: "Telegram",
+        url: "https://t.me/quonguyen",
+        icon: Icons.telegram,
+        navbar: true,
       },
     },
   },
