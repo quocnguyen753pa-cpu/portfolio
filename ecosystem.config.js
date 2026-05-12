@@ -20,7 +20,7 @@ module.exports = {
       // Environment variables
       env: {
         NODE_ENV: "production",
-        PORT: 3000,
+        PORT: 3001,
       },
 
       // Auto restart nếu crash
