@@ -130,7 +130,7 @@ export const DATA = {
   projects: [
     {
       title: "Client support",
-      href: "https://chatcollect.com",
+      href: "https://client.pavietnam.vn/",
       dates: "Jan 2025 - May 2026",
       active: true,
       description:
