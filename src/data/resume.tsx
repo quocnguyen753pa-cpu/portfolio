@@ -180,6 +180,42 @@ export const DATA = {
       image: "",
       video: "/tnt.mp4",
     },
+    {
+      title: "Son Tung Coffee",
+      href: "https://sontungcoffee.com.vn",
+      dates: "2024",
+      active: true,
+      description:
+        "Laravel e-commerce for roasted coffee — online retail, wholesale pricing for shop partners, cart, and product content.",
+      technologies: ["Laravel", "MySQL", "Bootstrap"],
+      links: [
+        {
+          type: "Website",
+          href: "https://sontungcoffee.com.vn",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "/sontungcoffee.mp4",
+    },
+    {
+      title: "Plato Edtech",
+      href: "https://platoenglish.edu.vn",
+      dates: "2024",
+      active: true,
+      description:
+        "English-academy web platform — courses, enrollment, and day-to-day operations for Plato Edtech.",
+      technologies: ["ReactJS", "NextJS", "TailwindCSS", "NestJS", "MongoDB"],
+      links: [
+        {
+          type: "Website",
+          href: "https://platoenglish.edu.vn",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "/plato.mp4",
+    },
   ],
   hackathons: [
     {
