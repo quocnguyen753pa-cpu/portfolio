@@ -51,6 +51,7 @@ export const DATA = {
   contact: {
     email: "quocnguyen09092001@gmail.com",
     tel: "+84937296753",
+    telegram: "quonguyen",
     social: {
       Email: {
         name: "Send Email",

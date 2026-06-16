@@ -42,6 +42,16 @@ export default function ContactSection() {
               {DATA.contact.tel}
             </Link>
           </div>
+          <div className="flex items-center justify-center gap-2">
+            <span className="text-muted-foreground">Telegram:</span>
+            <Link
+              href={`https://t.me/${DATA.contact.telegram}`}
+              target="_blank"
+              className="text-primary hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
+            >
+              t.me/{DATA.contact.telegram}
+            </Link>
+          </div>
         </div>
       </div>
     </div>
